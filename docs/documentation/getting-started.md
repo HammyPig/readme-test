@@ -5,4 +5,4 @@ excerpt: >-
   jiffy!
 hidden: false
 ---
-edited on githubbbb
+lock in... readme edited
