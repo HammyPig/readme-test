@@ -17,4 +17,6 @@ hidden: false
 
 <HelloBlock />
 
+<Recipe slug="mytitle" title="this is my recipe!!!!" />
+
 <br />
