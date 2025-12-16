@@ -1,5 +1,5 @@
 ---
-title: Test Recipe
+title: Test Recipe 2
 description: Recipe Description
 hidden: true
 recipe:
