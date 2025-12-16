@@ -5,8 +5,4 @@ excerpt: >-
   jiffy!
 hidden: false
 ---
-GITHUB !!!!
-
-<Image border={false} />
-
-<Image border={false} />
+hello
