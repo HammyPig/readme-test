@@ -1,7 +1,7 @@
 ---
-title: Test Recipe 2 hello
+title: Test Recipe 2
 description: Recipe Description
-hidden: true
+hidden: false
 recipe:
   color: '#018FF4'
   icon: 🦉
