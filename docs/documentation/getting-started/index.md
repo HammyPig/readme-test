@@ -5,7 +5,7 @@ excerpt: >-
   jiffy!
 hidden: false
 ---
-hello
+./hello
 
 <HTMLBlock>{`
 
@@ -14,5 +14,7 @@ hello
 <MyBlock />
 
 <MyBlock />
+
+<HelloBlock />
 
 <br />
