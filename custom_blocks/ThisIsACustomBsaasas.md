@@ -1,4 +1,4 @@
 ---
-name: ThisIsACustomBsaasas
+name: HelloBlock
 ---
 hello new block
