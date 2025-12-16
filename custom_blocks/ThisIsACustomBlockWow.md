@@ -1,4 +1,4 @@
 ---
-name: ThisIsACustomBlockWow
+name: ThisIsACustomB
 ---
 hello new block
