@@ -6,3 +6,13 @@ excerpt: >-
 hidden: false
 ---
 hello
+
+<HTMLBlock>{`
+
+`}</HTMLBlock>
+
+<MyBlock />
+
+<MyBlock />
+
+<br />
