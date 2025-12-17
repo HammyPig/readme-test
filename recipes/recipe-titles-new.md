@@ -1,5 +1,5 @@
 ---
-title: Recipe Titles new
+title: Recipe Titles new edited
 description: Recipe Description
 hidden: false
 recipe:
