@@ -1,5 +1,5 @@
 ---
-title: Recipe Titlesss edited! wow :)
+title: Recipe Titles
 description: Recipe Description
 hidden: false
 recipe:
