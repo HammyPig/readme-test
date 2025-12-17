@@ -5,6 +5,3 @@ excerpt: >-
   jiffy!
 hidden: false
 ---
-<Recipe slug="recipe-titles-new-edited-hello-a" title="Recipe Titles new edited hello :) !!! a" />
-
-<br />
