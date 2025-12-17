@@ -5,3 +5,6 @@ excerpt: >-
   jiffy!
 hidden: false
 ---
+<Recipe slug="my-first-recipe" title="my first recipe" />
+
+<br />
