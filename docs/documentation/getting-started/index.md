@@ -7,4 +7,6 @@ hidden: false
 ---
 <Recipe slug="my-first-recipe" title="my first recipe" />
 
+<HelloBlock />
+
 <br />
