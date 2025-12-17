@@ -1,5 +1,5 @@
 ---
-title: Recipe Titles new edited dddd hello :) !!! a
+title: Recipe Titles new edited hello :) !!! a
 description: Recipe Description
 hidden: false
 recipe:
