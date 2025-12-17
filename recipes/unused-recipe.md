@@ -1,5 +1,5 @@
 ---
-title: unused recipe
+title: unused recipe will be used shortly...
 description: Recipe Description
 hidden: true
 recipe:
