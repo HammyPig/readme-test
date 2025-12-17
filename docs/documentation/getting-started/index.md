@@ -7,4 +7,6 @@ hidden: false
 ---
 <Recipe slug="my-first-recipe" title="my first recipe" />
 
+i have deleted hello block...
+
 <br />
