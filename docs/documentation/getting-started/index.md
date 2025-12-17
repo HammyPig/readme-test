@@ -17,6 +17,6 @@ hidden: false
 
 <HelloBlock />
 
-<Recipe slug="recipe-titlesss-edited-wow" title="Recipe Titlesss edited! wow :)" />
+<Recipe slug="recipe-titles" title="Recipe Titles" />
 
 <br />
