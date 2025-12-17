@@ -9,4 +9,6 @@ hidden: false
 
 hello!
 
+<Recipe slug="unused-recipe-will-be-used-shortly" title="unused recipe will be used shortly..." />
+
 <br />
