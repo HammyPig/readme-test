@@ -9,4 +9,6 @@ hidden: false
 
 i have deleted hello block...
 
+<Recipe slug="my-first-recipe" title="my first recipe" />
+
 <br />
