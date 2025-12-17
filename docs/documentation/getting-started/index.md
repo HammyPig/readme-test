@@ -5,10 +5,8 @@ excerpt: >-
   jiffy!
 hidden: false
 ---
-<Recipe slug="my-first-recipe" title="my first recipe" />
+<Recipe slug="my-second-recipe" title="my second recipe" />
 
-i have deleted hello block...
-
-<Recipe slug="my-first-recipe" title="my first recipe" />
+<br />
 
 <br />
