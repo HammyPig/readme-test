@@ -7,6 +7,6 @@ hidden: false
 ---
 <Recipe slug="my-second-recipe" title="my second recipe" />
 
-<br />
+hello!
 
 <br />
