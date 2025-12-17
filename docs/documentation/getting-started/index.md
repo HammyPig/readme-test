@@ -5,18 +5,6 @@ excerpt: >-
   jiffy!
 hidden: false
 ---
-./hello
-
-<HTMLBlock>{`
-
-`}</HTMLBlock>
-
-<MyBlock />
-
-<MyBlock />
-
-<HelloBlock />
-
-<Recipe slug="recipe-titles" title="Recipe Titles" />
+<Recipe slug="recipe-titles-new-edited-hello-a" title="Recipe Titles new edited hello :) !!! a" />
 
 <br />
