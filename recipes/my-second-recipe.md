@@ -6,8 +6,8 @@ recipe:
   color: '#018FF4'
   icon: 🦉
 ---
-```curl cURL
-
+```python Python
+print("hello, world!")
 ```
 
 ```json Response Example
@@ -16,5 +16,18 @@ recipe:
 
 # 1
 
-<!-- curl@ -->
+<!-- python@ -->
 
+
+
+# number 2
+
+<!-- python@ -->
+
+
+
+# number 3 
+
+<!-- python@ -->
+
+wow !!!
