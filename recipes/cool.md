@@ -1,7 +1,7 @@
 ---
 title: cool
 description: Recipe Description
-hidden: true
+hidden: false
 recipe:
   color: '#018FF4'
   icon: 🦉
@@ -17,4 +17,3 @@ recipe:
 # 1
 
 <!-- curl@ -->
-
