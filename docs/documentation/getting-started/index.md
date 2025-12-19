@@ -5,8 +5,10 @@ excerpt: >-
   jiffy!
 hidden: false
 ---
-<Recipe slug="my-second-recipe" title="my second recipe" />
-
 hello!
 
 gi
+
+<Recipe slug="my-second-recipe" title="my second recipe" />
+
+<br />
